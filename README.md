@@ -1,1 +1,4 @@
-# Python-Project-INT213- College project
+# Python-Project-
+INT213- College project
+
+A pension calculator made with python language for semester project submission.
